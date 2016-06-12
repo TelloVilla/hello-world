@@ -1,2 +1,3 @@
 # hello-world
-Github Tutorial
+
+A student trying to build a portfolio
